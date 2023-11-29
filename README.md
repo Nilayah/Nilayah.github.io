@@ -7,5 +7,5 @@ Below are projects I have personally worked on in my free time.
 This project is similar to a magic eight ball... blah blah
 
 ```
-ADD LINK
+![Magic Eight Ball](https://localhost:7121/)
 ```
